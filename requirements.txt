@@ -1,0 +1,7 @@
+opencv-python==4.10.0.84
+numpy==1.26.3
+onnx==1.16.1
+onnxruntime==1.18.1
+onnxruntime-gpu==1.18.1
+torch==2.3.1+cu118
+torchvision==0.18.1+cu118
