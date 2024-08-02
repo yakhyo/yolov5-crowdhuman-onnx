@@ -44,7 +44,7 @@ sh download.sh
 
 | Model Name | ONNX Model Link                                                                                           | Number of Parameters | Model Size |
 | ---------- | --------------------------------------------------------------------------------------------------------- | -------------------- | ---------- |
-| YOLOv5m    | [yolov5m.onnx](https://github.com/yakhyo/yolov5-crowdhuman-onnx/releases/download/v0.0.1/crowdhuman.onnx) | 21.2M                | 84 MB      |
+| YOLOv5m    | [crowdhuman.onnx](https://github.com/yakhyo/yolov5-crowdhuman-onnx/releases/download/v0.0.1/crowdhuman.onnx) | 21.2M                | 84 MB      |
 
 <br>
 
