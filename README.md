@@ -89,3 +89,4 @@ options:
 ## Reference
 
 1. https://github.com/ultralytics/yolov5
+2. Thanks for the model weight to [SibiAkkash](https://github.com/SibiAkkash/yolov5-crowdhuman)
