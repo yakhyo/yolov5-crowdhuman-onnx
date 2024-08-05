@@ -5,7 +5,7 @@
 <video controls autoplay loop src="https://github.com/user-attachments/assets/ade0f186-4dfe-4974-b1e0-a803a2fbd36a" muted="false" width="100%"></video>
 
 
-Link: https://youtu.be/Snyg0RqpVxY
+Video by Coverr from Pexels: https://www.pexels.com/video/black-and-white-video-of-people-853889/
 
 This repository contains code and instructions for performing object detection using the YOLOv5 model with the CrowdHuman dataset, utilizing ONNX Runtime for inference.
 
