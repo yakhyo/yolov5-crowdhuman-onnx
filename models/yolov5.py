@@ -1,3 +1,10 @@
+"""
+Author: Yakhyokhuja Valikhujaev
+Date: 2024-08-07
+Description: YOLOv5 ONNX inference
+Copyright (c) 2024 Yakhyokhuja Valikhujaev. All rights reserved.
+"""
+
 import cv2
 import onnxruntime
 import numpy as np
