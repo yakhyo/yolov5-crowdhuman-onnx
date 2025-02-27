@@ -20,7 +20,7 @@ This repository contains code and instructions for performing object detection u
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/yolov5-crowdhuman-onnx.git
+git clone https://github.com/yakhyo/yolov5-crowdhuman-onnx.git
 cd yolov5-crowdhuman-onnx
 ```
 
